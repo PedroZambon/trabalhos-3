@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Interesses - Filmes</title>
+</head>
+<body>
+    <h1>Meus Filmes Favoritos</h1>
+    <ul>
+        <li>Batman: O Cavaleiro das Trevas Ressurge</li>
+        <li>Homem-Aranha 2</li>
+        <li>Oppenheimer</li>
+        <li>The Batman</li>
+        <li>Clube de Compras Dallas</li>
+    </ul>
+</body>
+</html>
